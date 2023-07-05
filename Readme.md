@@ -1,6 +1,6 @@
 ## Movie Recommender
 ## Major Project
-- Edbda : CDAC ACTS PUNE
+- PG-dbda : CDAC ACTS Bengaluru
 
 ## Overview
 
